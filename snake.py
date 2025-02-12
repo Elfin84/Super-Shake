@@ -1,7 +1,7 @@
 import pygame
 import time
 import random
-
+import web3
 # Инициализация pygame
 pygame.init()
 
